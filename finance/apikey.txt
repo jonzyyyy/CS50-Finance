@@ -1,1 +1,1 @@
-export API_KEY=ppk_b63bf394ebab4c43b3108bbb8e7f0720
+export API_KEY=pk_b63bf394ebab4c43b3108bbb8e7f0720
